@@ -10,7 +10,9 @@ ganxj 的个人博客
 
 ### 最新
 
-* [世界，你好！](http://gange.daxiangzhuan.com/hello-solo)
+* [我在 GitHub 上的开源项目](http://gange.daxiangzhuan.com/my-github-repos)
+* [Android 开机启动APP](http://gange.daxiangzhuan.com/articles/2019/10/24/1571899506161.html)
+* [Android获取唯一标识](http://gange.daxiangzhuan.com/articles/2019/10/23/1571823867146.html)
 
 
 
