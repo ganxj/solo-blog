@@ -10,6 +10,7 @@ ganxj 的个人博客
 
 ### 最新
 
+* [记 js判断数组是否包含某个元素](http://gange.daxiangzhuan.com/articles/2019/11/01/1572600765857.html)
 * [Android 实现文件的读写](http://gange.daxiangzhuan.com/articles/2019/10/28/1572252917341.html)
 * [Android 获取设备IP地址，wifi的数据的分开](http://gange.daxiangzhuan.com/articles/2019/10/25/1571991313677.html)
 * [我在 GitHub 上的开源项目](http://gange.daxiangzhuan.com/my-github-repos)
