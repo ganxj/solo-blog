@@ -10,6 +10,11 @@ ganxj 的个人博客
 
 ### 最新
 
+* [Android mvvm框架 databinding](http://gange.daxiangzhuan.com/articles/2019/11/08/1573213230797.html)
+* [java爬虫jsoup的使用](http://gange.daxiangzhuan.com/articles/2019/11/08/1573202387262.html)
+* [我的产品](http://gange.daxiangzhuan.com/my-product-list)
+* [ffmpeg安装及encode库的安装说明](http://gange.daxiangzhuan.com/articles/2019/11/08/1573196605862.html)
+* [解决jquery跨域cookie丢失问题](http://gange.daxiangzhuan.com/articles/2019/11/08/1573196256608.html)
 * [记 js判断数组是否包含某个元素](http://gange.daxiangzhuan.com/articles/2019/11/01/1572600765857.html)
 * [Android 实现文件的读写](http://gange.daxiangzhuan.com/articles/2019/10/28/1572252917341.html)
 * [Android 获取设备IP地址，wifi的数据的分开](http://gange.daxiangzhuan.com/articles/2019/10/25/1571991313677.html)
