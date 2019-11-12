@@ -10,6 +10,7 @@ ganxj 的个人博客
 
 ### 最新
 
+* [Android记一次找不到android.support.v4.app.ActivityCompatApi23的类文件](http://gange.daxiangzhuan.com/articles/2019/11/11/1573441293227.html)
 * [Android mvvm框架 databinding](http://gange.daxiangzhuan.com/articles/2019/11/08/1573213230797.html)
 * [java爬虫jsoup的使用](http://gange.daxiangzhuan.com/articles/2019/11/08/1573202387262.html)
 * [我的产品](http://gange.daxiangzhuan.com/my-product-list)
